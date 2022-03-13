@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: 89b65a3716035db4aa93b59628a2fca9, type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 2636ac9521b7f584e89ed6cfbf288d34, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 23f2c0891bbad5841b05caf11b5e6cd0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 244db8fe5f22ae646a550b8fea4a2f65, type: 2}
